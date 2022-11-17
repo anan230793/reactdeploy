@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Breactdeploy%7D/static/css/main.e6c13ad2.css",
+    "main.js": "/%7Breactdeploy%7D/static/js/main.058c1c4c.js",
+    "static/js/787.8243a10c.chunk.js": "/%7Breactdeploy%7D/static/js/787.8243a10c.chunk.js",
+    "index.html": "/%7Breactdeploy%7D/index.html",
+    "main.e6c13ad2.css.map": "/%7Breactdeploy%7D/static/css/main.e6c13ad2.css.map",
+    "main.058c1c4c.js.map": "/%7Breactdeploy%7D/static/js/main.058c1c4c.js.map",
+    "787.8243a10c.chunk.js.map": "/%7Breactdeploy%7D/static/js/787.8243a10c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.058c1c4c.js"
+  ]
+}
